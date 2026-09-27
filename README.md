@@ -90,7 +90,7 @@ The 21.5-point adoption gap between sponsored and unsponsored accounts is the si
 
 22 accounts sit under the floor. Nine of them are Yellow — recoverable with a structured 45-day motion before they decay into Red, where recovery economics collapse.
 
-**Action:** trigger [`PB-ADOPT-02`](playbooks/adoption_risk_intervention.md) on every Yellow account below 70% adoption, sequenced by ARR. Target ≥55% Green conversion. Starting point: BR-1001 ($400K), BR-1002 ($394K), BR-1011 ($125K).
+**Action:** trigger [`PB-ADOPT-02`](playbooks/adoption_risk_intervention.md) on every Yellow account below 70% adoption, sequenced by ARR. Target ≥55% Green conversion. Starting point: ID-1001 ($400K), ID-1002 ($394K), ID-1011 ($125K).
 
 ### 3. Train the ASM layer, not just the reps
 
