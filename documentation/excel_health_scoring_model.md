@@ -89,7 +89,7 @@ Single-cell version, with no helper columns, if you prefer one formula per row:
       + 0.15*IFS(H2="Engaged",100,H2="Passive",60,H2="None",25,H2="Champion Departed",10), 1)
 ```
 
-**Worked example — BR-1001, Shree Balaji Distributors** (62% adoption, −8.3% trend, 10 tickets, Passive sponsor):
+**Worked example — ID-1001, Shree Balaji Distributors** (62% adoption, −8.3% trend, 10 tickets, Passive sponsor):
 
 | Component | Raw | Sub-score | Weighted |
 |---|---|---|---|
