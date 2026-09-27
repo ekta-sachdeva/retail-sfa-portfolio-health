@@ -28,7 +28,7 @@ The playbook fires automatically when an account meets the tier condition **and*
 - An open P1 support incident exists — adoption is blocked by a product fault, not a behaviour gap. Resolve the incident first.
 - The playbook has completed within the last 90 days without a tier change (route to Red escalation instead of re-running).
 
-**Current portfolio match:** 9 of 16 Yellow accounts, representing $1.28M ARR. Highest-value match: **BR-1001 Shree Balaji Distributors** — $400K ARR, 322 licensed reps, 62% adoption, −8.3% order trend, Passive sponsor.
+**Current portfolio match:** 9 of 16 Yellow accounts, representing $1.28M ARR. Highest-value match: **ID-1001 Shree Balaji Distributors** — $400K ARR, 322 licensed reps, 62% adoption, −8.3% order trend, Passive sponsor.
 
 ---
 
