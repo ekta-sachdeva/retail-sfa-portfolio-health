@@ -13,7 +13,8 @@
 | File | Purpose |
 |---|---|
 | [`data/raw_portfolio_telemetry.csv`](data/raw_portfolio_telemetry.csv) | Raw account telemetry — 50 distributors, ARR, licensed vs. active field reps, order volume trend, support load, sponsor status |
-| [`documentation/excel_health_scoring_model.md`](documentation/excel_health_scoring_model.md) | The scoring methodology — weighted 0–100 health formula, `IF`-based tiering, and the full NRR / GRR financial model with copy-pasteable Excel formulas |
+| [`data/health_scoring_workbook.xlsx`](data/health_scoring_workbook.xlsx) | The scoring methodology, live — same 50 accounts with every formula from the documentation actually implemented: health score, tier, churn/contraction/expansion flags, and the full NRR/GRR summary, all recalculating from the raw data |
+| [`documentation/excel_health_scoring_model.md`](documentation/excel_health_scoring_model.md) | The scoring methodology, explained — weighted 0–100 health formula, `IF`-based tiering, and the full NRR / GRR financial model with copy-pasteable Excel formulas |
 | [`playbooks/adoption_risk_intervention.md`](playbooks/adoption_risk_intervention.md) | Gainsight-style intervention playbook for Yellow accounts with low field rep adoption, including the CSM email template |
 
 ---
